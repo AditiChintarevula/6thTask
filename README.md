@@ -9,12 +9,3 @@ Pixel Paradise is a simple and visually appealing image gallery application buil
 - Navigation between images within the modal
 - Styled with CSS for a visually appealing presentation
 
-## Demo
-
-![Pixel Paradise Demo](demo-image-url)
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/pixel-paradise.git
